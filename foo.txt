@@ -1,2 +1,3 @@
 je modifie le fichier
 blablabla
+ce fichier est le mien, je le récupère en le modifiant
