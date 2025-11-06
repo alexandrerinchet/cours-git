@@ -1,1 +1,6 @@
 Thomas Bangalter et Guy-Manuel de Homem-Christo
+<<<<<<< HEAD
+
+Valérie Roy la star !
+=======
+>>>>>>> 4a7ed2bc0b565e9e8248969ef622ed695afd300f
